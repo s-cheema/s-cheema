@@ -1,4 +1,5 @@
-### Hi there 👋
+#Software & Computer Engineer
+### Hi there, I'm cheema  👋
 
 <!--
 **s-cheema/s-cheema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
