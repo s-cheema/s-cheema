@@ -1,4 +1,4 @@
-### Hi there, I'm cheema  👋
+### Hi there, I'm s-cheema  👋
 
 <H1 align=center> Software & Computer Engineer || Data Scientist </H1>
 
